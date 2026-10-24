@@ -1,6 +1,6 @@
 # Lookout
 
-Lookout (codename Mustang) is a new full-featured email client,
+Lookout is a new full-featured email client,
 chat, video conference, calendar, contacts and files app.
 It is based on [Parula](https://parula.app), but has a UI that looks like Outlook.
 
