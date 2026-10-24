@@ -1,13 +1,14 @@
-# Parula
+# Lookout
 
-Parula (codename Mustang) is a new full-featured email client,
+Lookout (codename Mustang) is a new full-featured email client,
 chat, video conference, calendar, contacts and files app.
+It is based on [Parula](https://parula.app), but has a UI that looks like Outlook.
 
-https://parula.app
+https://lookout.parula.app
 
 # Architecture
 
-Parula is a full desktop client for Linux, Windows, macOS, Android and iOS,
+Lookout is a full desktop client for Linux, Windows, macOS, Android and iOS,
 running as local app, with local data, and written entirely in TypeScript and HTML.
 It is currently based on Electron and CapacitorJS as runtime,
 but can use other runtimes like Gecko as well.
